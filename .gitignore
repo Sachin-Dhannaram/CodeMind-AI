@@ -1,0 +1,17 @@
+# Dependencies
+node_modules/
+backend/.venv/
+backend/venv/
+__pycache__/
+
+# Databases & Vector Stores
+backend/chroma_db/
+backend/repositories/
+
+# Build outputs
+frontend/dist/
+frontend/build/
+
+# Environment variables
+.env
+backend/.env
