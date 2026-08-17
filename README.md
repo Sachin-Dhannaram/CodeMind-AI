@@ -51,7 +51,7 @@ Follow these steps to get CodeMind AI up and running on your local machine.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/codemind-ai.git
+git clone https://github.com/Sachin-Dhannaram/codemind-ai.git
 cd codemind-ai
 ```
 
